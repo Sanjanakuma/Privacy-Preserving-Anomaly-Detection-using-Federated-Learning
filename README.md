@@ -1,7 +1,6 @@
-# ${\color{blue} Privacy\Preserving\Anomaly\Detection\using\Federated\Learning}$
+# ${\color{blue} \Privacy\Preserving\Anomaly\Detection\using\Federated\Learning}$
 
 # Requirements: 
-   - Install all required packages using pip.
 - pip install torch torchvision
 - pip install pandas openpyxl
 - pip install matplotlib
