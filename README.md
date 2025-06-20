@@ -1,4 +1,4 @@
-# ${\color{blue} \Privacy\Preserving\Anomaly\Detection\using\Federated\Learning}$
+# ${\color{blue} Privacy\ Preserving\ Anomaly\ Detection\ using\ Federated\ Learning}$
 
 # Requirements: 
 - pip install torch torchvision
